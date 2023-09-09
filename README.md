@@ -1,1 +1,2 @@
 # Blog-site-for-php
+The site is intended for training. The site has db.php and connect.php this is a Database. The site has entries comments categories and users I will say right away that the bugs have not been fixed. Need to tweak the css as well commentaries.php or rather edit.php . Comments do not change. There is not much protection on the site or not at all. You will add Javascript yourself. General checks in php are present, but few You can see everything else on the website. Also, there are no additional pages, add at your discretion. I wish you happiness.
